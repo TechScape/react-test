@@ -1,13 +1,6 @@
-# React: Slideshow App
+# React Test Basic
 
-## Environment 
-
-- React Version: 16.13.1
-- Default Port: 8000
-
-## Project Specifications 
-
-Create a basic slideshow application, as shown below. Application requirements are given below, and the finished application must pass all of the unit tests.
+# Create a basic slideshow application, as shown below. Application requirements are given below, and the finished application must pass all of the unit tests.
 
 ![Gif](https://hrcdn.net/s3_pub/istreet-assets/j3Q6jXZ3DOOPRlCs9hFcnQ/slideshow.gif)
 
